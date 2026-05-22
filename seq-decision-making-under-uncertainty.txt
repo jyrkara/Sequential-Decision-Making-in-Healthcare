@@ -1,0 +1,107 @@
+Found 100 papers  [s_9ad303f8]
+
+  1. Sequential Decision-Making under Uncertainty: A Robust MDPs review
+     Wenfan Ou and Sheng Bi
+     arx_2404.00940 · arXiv · 2024-04-01
+     "This review surveys robust Markov Decision Processes (RMDPs) for sequential decision-making under uncertainty, focusing on ambiguity modeling. RMDPs offer computational tractability via rectangular assumptions, but relaxing these assumptions is a promising future research direction."
+
+  2. On Risk-Sensitive Decision Making Under Uncertainty
+     Chung-Han Hsieh and Yi-Shan Wong
+     arx_2404.13371 · arXiv · 2024-04-20
+     https://doi.org/10.23919/ACC63710.2025.11108105
+     "This study addresses risk-sensitive decision-making over multiple stages with deterministic and stochastic choices. It derives optimality conditions for this stochastic control problem, illustrated by betting and inventory examples."
+
+  3. Non-Linear Model-Based Sequential Decision-Making in Agriculture
+     Sakshi Arya and Wentao Lin
+     arx_2509.01924 · arXiv · 2025-09-02
+     "This study developed nonlinear, model-based bandit algorithms to optimize agricultural resource use with limited data. The new approach achieved sublinear regret and near-optimal sample complexity, outperforming existing methods in simulations."
+
+  4. The Gittins Index: A Design Principle for Decision-Making Under Uncertainty
+     Ziv Scully, Alexander Terenin
+     arx_2506.10872 · arXiv · 2025-06-12
+     "This tutorial introduces the Gittins index as a practical tool for decision-making under uncertainty. It demonstrates the index's effectiveness in problems like Bayesian optimization and queue latency minimization, even when not strictly optimal."
+
+  5. A Sequential Decision-Making Model for Perimeter Identification
+     Ayal Taitler
+     arx_2409.02549 · arXiv · 2024-09-04
+     "This study models perimeter identification as a sequential game using publicly available data. The proposed framework efficiently identifies optimal perimeters in real-time scenarios."
+
+  6. Decision-Focused Sequential Experimental Design: A Directional Uncertainty-Guided Approach
+     Beichen Wan, Mo Liu, Paul Grigas, Zuo-Jun Max Shen
+     arx_2602.05340 · arXiv · 2026-02-05
+     "This study introduces a new method for sequential experimental design in predict-then-optimize settings. The approach uses directional uncertainty to guide experiments, leading to earlier stopping times and improved decision-making compared to traditional methods."
+
+  7. Learning to Trust: Bayesian Adaptation to Varying Suggester Reliability in Sequential Decision Making
+     Dylan M. Asmar and Mykel J. Kochenderfer
+     arx_2511.12378 · arXiv · 2025-11-15
+     "This study developed a Bayesian framework for agents to learn and adapt to unreliable suggestions in sequential decision-making. The agents successfully adapted to varying suggester reliability and strategically requested suggestions."
+
+  8. Performance Guarantees for Data-Driven Sequential Decision-Making
+     Bowen Li, Edwin K. P. Chong, Ali Pezeshki
+     arx_2603.20553 · arXiv · 2026-03-20
+     "This study develops a framework to analyze approximate dynamic programming for sequential decision-making problems. It shows that approximate methods yield objective values that are a guaranteed fraction of the optimal value."
+
+  9. Decision-Making Under Complete Uncertainty: You Will Regret Not Being   Greedy
+     Kristijan Atanasov, Mehmet Ismail and Frederik Mallmann-Trenn
+     arx_2502.07593 · arXiv · 2025-02-11
+     "This study models decision-making under uncertainty to analyze the greedy strategy's worst-case regret. The greedy approach is proven optimal, converging to zero regret and outperforming other methods in real-world data."
+
+  10. Semi-Myopic Sensing Plans for Value Optimization
+     David Tolpin, Solomon Eyal Shimony
+     arx_0906.3149 · arXiv · 2009-06-17
+     "Researchers explored how to optimize item selection by balancing measurement costs and potential value. A new "blinkered" value of information approach significantly improved sensing plans over purely myopic methods."
+
+  11. Sequential Stochastic Optimization in Separable Learning Environments
+     R. Reid Bishop and Chelsea C. White III
+     arx_2108.09585 · arXiv · 2021-08-21
+     "Researchers modeled sequential decision-making with partial observation as a separable POMDP. This structure allows for separating state estimation from control, simplifying optimization in various applications."
+
+  12. Decision-Oriented Learning for Future Power System Decision-Making under   Uncertainty
+     Ran Li, Haipeng Zhang, Mingyang Sun, Fei Teng, Can Wan, Salvador Pineda, and Georges Kariniotakis
+     arx_2401.03680 · arXiv · 2024-01-08
+     "This study explores decision-oriented learning to improve power system decisions despite forecast uncertainty. Decision-oriented learning optimizes final decisions, unlike statistical methods that focus on intermediate forecast accuracy."
+
+  13. Probabilistic Loss and its Online Characterization for Simplified   Decision Making Under Uncertainty
+     Andrey Zhitnikov, Vadim Indelman
+     arx_2105.05789 · arXiv · 2021-05-12
+     "This study developed a framework to simplify decision-making under uncertainty while quantifying the impact of simplification. The approach allows for controlled simplification and improved performance in challenging scenarios."
+
+  14. DeLLMa: Decision Making Under Uncertainty with Large Language Models
+     Ollie Liu, Deqing Fu, Dani Yogatama, Willie Neiswanger
+     arx_2402.02392 · arXiv · 2024-02-04
+     "This study investigated how to improve large language model decision-making under uncertainty. The proposed DeLLMa framework enhances accuracy by up to 40% through a multi-step reasoning process."
+
+  15. Distributionally Robust Optimization for Sequential Decision Making
+     Zhi Chen, Pengqian Yu, William B. Haskell
+     arx_1801.04745 · arXiv · 2018-01-15
+     "This study investigated distributionally robust Markov Decision Processes with generalized moment and statistical distance information. A tractable policy was found by solving sequential convex optimization subproblems."
+
+  16. Prospect Theory Fails for LLMs: Revealing Instability of Decision-Making under Epistemic Uncertainty
+     Rui Wang, Qihan Lin, Jiayu Liu, Qing Zong, Tianshi Zheng, Weiqi Wang, Yangqiu Song
+     arx_2508.08992 · arXiv · 2025-08-12
+     "Researchers tested if Prospect Theory applies to LLMs using economic questionnaires and epistemic markers. LLM decision-making is unreliable under Prospect Theory, especially with linguistic uncertainty."
+
+  17. Act as You Learn: Adaptive Decision-Making in Non-Stationary Markov   Decision Processes
+     Baiting Luo, Yunuo Zhang, Abhishek Dubey, Ayan Mukhopadhyay
+     arx_2401.01841 · arXiv · 2024-01-03
+     "This study introduces Adaptive Monte Carlo Tree Search to address decision-making in changing environments. The algorithm learns environmental dynamics and adapts its strategy, avoiding pessimism when confident about updated conditions."
+
+  18. Sequential Decision Making with Expert Demonstrations under Unobserved Heterogeneity
+     Vahid Balazadeh, Keertana Chidambaram, Viet Nguyen, Rahul G. Krishnan, Vasilis Syrgkanis
+     arx_2404.07266 · arXiv · 2024-04-10
+     "This study addresses sequential decision-making using expert demonstrations with unobserved context by modeling it as meta-reinforcement learning. The proposed Experts-as-Priors algorithm effectively uses expert data to inform the learner's prior, outperforming existing methods."
+
+  19. On the Optimal Amount of Experimentation in Sequential Decision Problems
+     Dinah Rosenberg, Eilon Solan, Nicolas Vieille
+     arx_0907.2002 · arXiv · 2009-07-12
+     "Researchers investigated the optimal experimentation amount in sequential decision problems. They established a tight bound for this optimal strategy, demonstrating its application to one-arm bandit problems."
+
+  20. Sequential Decision-Making for Inline Text Autocomplete
+     Rohan Chitnis and Shentao Yang and Alborz Geramifard
+     arx_2403.15502 · arXiv · 2024-03-21
+     "This study formulates inline text autocomplete as a sequential decision-making problem using reinforcement learning to optimize suggestion policies. The approach shows potential for better suggestion policies than single-step reasoning, though real-world user alignment requires further investigation."
+
+  ... and 80 more papers
+  Use: paperclip results s_9ad303f8  to see all
+
+[295ms, saved to s_9ad303f8]

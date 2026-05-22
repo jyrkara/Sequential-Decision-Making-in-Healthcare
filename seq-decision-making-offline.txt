@@ -1,0 +1,106 @@
+Found 100 papers  [s_eaf281b8]
+
+  1. On The Statistical Complexity of Offline Decision-Making
+     Thanh Nguyen-Tang, Raman Arora
+     arx_2501.06339 · arXiv · 2025-01-10
+     "Researchers analyzed offline decision-making using function approximation. They found that performance limits depend on the function class's pseudo-dimension and a novel behavior policy characterization."
+
+  2. Is Offline Decision Making Possible with Only Few Samples? Reliable   Decisions in Data-Starved Bandits via Trust Region Enhancement
+     Ruiqi Zhang, Yuexiang Zhai, Andrea Zanette
+     arx_2402.15703 · arXiv · 2024-02-24
+     "This study investigated if reliable decisions are possible in data-starved bandit problems with few samples. It found that stochastic policies outperform deterministic ones, and developed an algorithm called TRUST that achieves competitive sample complexity."
+
+  3. A Fast Convergence Theory for Offline Decision Making
+     Chenjie Mao, Qiaosheng Zhang
+     arx_2406.01378 · arXiv · 2024-06-03
+     "This study introduces a framework for offline decision-making and an algorithm called EDD to analyze convergence. The algorithm exhibits fast convergence when data coverage is partial, with a rate dependent on dataset size."
+
+  4. Learning Sequential Decisions from Multiple Sources via Group-Robust Markov Decision Processes
+     Mingyuan Xu, Zongqi Xia, Tianxi Cai, Doudou Zhou, Nian Si
+     arx_2602.01825 · arXiv · 2026-02-02
+     "This study addresses learning sequential decision policies from heterogeneous multi-site data using group-robust Markov Decision Processes. The developed algorithm learns a robust policy by aggregating per-site models under feature-wise uncertainty, achieving a suboptimality bound."
+
+  5. Sequential Decision Making with Expert Demonstrations under Unobserved Heterogeneity
+     Vahid Balazadeh, Keertana Chidambaram, Viet Nguyen, Rahul G. Krishnan, Vasilis Syrgkanis
+     arx_2404.07266 · arXiv · 2024-04-10
+     "This study addresses sequential decision-making using expert demonstrations with unobserved context by modeling it as meta-reinforcement learning. The proposed Experts-as-Priors algorithm effectively uses expert data to inform the learner's prior, outperforming existing methods."
+
+  6. Efficient Sequential Decision Making with Large Language Models
+     Dingyang Chen, Qi Zhang, Yinglun Zhu
+     arx_2406.12125 · arXiv · 2024-06-17
+     "This study investigated using online model selection to integrate large language models into sequential decision-making. The proposed method significantly outperformed existing approaches with minimal LLM calls."
+
+  7. Generalizing Off-Policy Evaluation From a Causal Perspective For   Sequential Decision-Making
+     Sonali Parbhoo, Shalmali Joshi, Finale Doshi-Velez
+     arx_2201.08262 · arXiv · 2022-01-20
+     "This study frames off-policy evaluation as a causal inference problem to understand its fundamental limits. It shows that a causal perspective expands OPE's scope to counterfactual evaluation and clarifies data needs and uncertainty management."
+
+  8. Diffusion-Based Offline RL for Improved Decision-Making in Augmented ARC   Task
+     Yunho Kim and Jaehyun Park and Heejun Kim and Sejin Kim and Byung-Jun Lee and Sundong Kim
+     arx_2410.11324 · arXiv · 2024-10-15
+     "This study investigated diffusion-based offline reinforcement learning for multi-step decision-making in the ARC task. The developed SOLAR dataset and LDCQ method enabled an agent to effectively solve a simple ARC task."
+
+  9. Representation Matters: Offline Pretraining for Sequential Decision   Making
+     Mengjiao Yang, Ofir Nachum
+     arx_2102.05815 · arXiv · 2021-02-11
+     "This study explored unsupervised pretraining objectives for learning state representations from offline data. Pretraining significantly improved downstream sequential decision-making performance across various tasks."
+
+  10. Translating the Rashomon Effect to Sequential Decision-Making Tasks
+     Dennis Gross, J{\o}rn Eirik Betten, Helge Spieker
+     arx_2512.17470 · arXiv · 2025-12-19
+     "This study investigated the Rashomon effect in sequential decision-making by comparing policies with identical behavior but different internal structures. Multiple policies exhibited the effect, and ensembles from this set improved robustness and reduced verification costs."
+
+  11. Understanding the Training and Generalization of Pretrained Transformer   for Sequential Decision Making
+     Hanzhao Wang, Yu Pan, Fupeng Sun, Shang Liu, Kalyan Talluri, Guanting Chen, Xiaocheng Li
+     arx_2405.14219 · arXiv · 2024-05-23
+     "This study investigates pretrained transformers for sequential decision-making by framing training as performative prediction. Transformers outperform structured algorithms by leveraging prior knowledge, handling misspecification, and acting greedily in short time horizons."
+
+  12. Stateful Offline Contextual Policy Evaluation and Learning
+     Nathan Kallus, Angela Zhou
+     arx_2110.10081 · arXiv · 2021-10-19
+     "This paper addresses off-policy evaluation and learning in contextual bandit problems with resource constraints. It finds that leveraging single time-step evaluations improves policy performance in dynamic pricing simulations."
+
+  13. Communication and Control Co-Design in 6G: Sequential Decision-Making   with LLMs
+     Xianfu Chen and Celimuge Wu and Yi Shen and Yusheng Ji and Tsutomu Yoshinaga and Qiang Ni and Charil...
+     arx_2407.06227 · arXiv · 2024-07-06
+     "This study addresses the co-design of communication and control in 6G networks using a Markov decision process and offline reinforcement learning. Integrating large language models, the framework optimizes system performance, demonstrated through an age-of-semantics case study."
+
+  14. UNO Arena for Evaluating Sequential Decision-Making Capability of Large   Language Models
+     Zhanyue Qin, Haochuan Wang, Deyuan Liu, Ziyang Song, Cunhang Fan, Zhao Lv, Jinlin Wu, Zhen Lei, Zhiy...
+     arx_2406.16382 · arXiv · 2024-06-24
+     "This study introduces the UNO Arena to assess large language models' sequential decision-making skills. LLMs with reflection capabilities significantly outperformed baseline models in the UNO game."
+
+  15. Off-policy Policy Evaluation For Sequential Decisions Under Unobserved   Confounding
+     Hongseok Namkoong, Ramtin Keramati, Steve Yadlowsky, Emma Brunskill
+     arx_2003.05623 · arXiv · 2020-03-12
+     "This study investigated the robustness of off-policy policy evaluation methods to unobserved confounding in sequential decision-making. The researchers developed bounds showing that confounding can bias evaluations, but proposed a method to provide meaningful robustness certificates in healthcare settings."
+
+  16. Sequential three-way group decision-making for double hierarchy hesitant   fuzzy linguistic term set
+     Nanfang Luo, Qinghua Zhang, Qin Xie, Yutai Wang, Longjun Yin, Guoyin Wang
+     arx_2406.18884 · arXiv · 2024-06-27
+     "This study developed a sequential three-way decision method to handle complex group decisions with hesitant fuzzy linguistic terms. The proposed approach efficiently fuses expert information and improves decision-making speed and interpretability."
+
+  17. Bridging the Gap Between Offline and Online Reinforcement Learning   Evaluation Methodologies
+     Shivakanth Sujit, Pedro H. M. Braga, Jorg Bornschein, Samira Ebrahimi Kahou
+     arx_2212.08131 · arXiv · 2022-12-15
+     "This study addresses the lack of a standard evaluation method for offline reinforcement learning algorithms. It proposes a sequential evaluation approach based on training set size, revealing insights into data efficiency and algorithm robustness."
+
+  18. Sequential Decision-Making for Inline Text Autocomplete
+     Rohan Chitnis and Shentao Yang and Alborz Geramifard
+     arx_2403.15502 · arXiv · 2024-03-21
+     "This study formulates inline text autocomplete as a sequential decision-making problem using reinforcement learning to optimize suggestion policies. The approach shows potential for better suggestion policies than single-step reasoning, though real-world user alignment requires further investigation."
+
+  19. Comparing Model-free and Model-based Algorithms for Offline   Reinforcement Learning
+     Phillip Swazinna, Steffen Udluft, Daniel Hein, Thomas Runkler
+     arx_2201.05433 · arXiv · 2022-01-14
+     "Researchers compared model-free and model-based offline RL algorithms on industrial benchmark datasets. Simpler model-free or rollout-based algorithms outperformed hybrid approaches in noisy, partially observable environments."
+
+  20. Data-Driven Offline Decision-Making via Invariant Representation   Learning
+     Han Qi, Yi Su, Aviral Kumar, Sergey Levine
+     arx_2211.11349 · arXiv · 2022-11-21
+     "This study addresses offline decision-making challenges like distributional shift by framing it as domain adaptation. The proposed invariant objective models enforce representation invariance, naturally penalizing decisions too far from the training data."
+
+  ... and 80 more papers
+  Use: paperclip results s_eaf281b8  to see all
+
+[274ms, saved to s_eaf281b8]

@@ -1,0 +1,117 @@
+Found 96 papers  [s_714f3d8f]
+
+  1. Pruning the Path to Optimal Care: Identifying Systematically Suboptimal   Medical Decision-Making with Inverse Reinforcement Learning
+     Inko Bovenzi, Adi Carmel, Michael Hu, Rebecca M. Hurwitz, Fiona McBride, Leo Benac, Jos\'e Roberto T...
+     arx_2411.05237 · arXiv · 2024-11-07
+     "This study used inverse reinforcement learning to identify suboptimal medical decisions by comparing clinician actions to peer consensus. Removing these suboptimal actions improved care, with benefits varying by disease and patient demographics."
+
+  2. Development and Initial Evaluation of a Patient Decision Aid to Support Decision-Making in Care-seeking Patients with Subacromial Pain Syndrome in Primary Care
+     Kristian D Lyng *, Samantha C Bengtsen, Joshua R Zadro, Nadine E Foster, Jens L Olesen, Janus L Thom...
+     med_4dc7ea846e50 · medRxiv · 2025-01-17
+     https://doi.org/10.1101/2025.01.17.25320492
+     "A patient decision aid for subacromial pain syndrome was developed and tested. Initial evaluations indicate the aid is acceptable and useful for preparing patients for decision-making."
+
+  3. A Review of Sequential Decision Making via Simulation
+     Zhuo Zhang, Dan Wang, Haoxiang Yang, Shubin Si
+     arx_2312.04090 · arXiv · 2023-12-07
+     "This review examines models and methods for sequential decision-making using simulation, focusing on challenges in multi-stage optimization. The key difficulty lies in modeling the stage-wise value function, with meta-models offering potential solutions."
+
+  4. Digital Simulations to Enhance Military Medical Evacuation Decision-Making
+     Jeremy Fischer, Mahdi Al-Husseini, Ram Krishnamoorthy, Vishal Kumar, Mykel J. Kochenderfer
+     arx_2507.06373 · arXiv · 2025-07-08
+     "This study developed a 3D simulation to evaluate military medical evacuation planning and decision-making under battlefield constraints. The simulation significantly improved participants' understanding of evacuation lessons and cooperative decision-making."
+
+  5. Artificial Intelligence Framework for Simulating Clinical   Decision-Making: A Markov Decision Process Approach
+     Casey C. Bennett, Kris Hauser
+     arx_1301.2158 · arXiv · 2013-01-10
+     https://doi.org/10.1016/j.artmed.2012.12.003
+     "This study developed an AI framework using Markov decision processes to simulate clinical decision-making. The AI significantly improved patient outcomes and reduced costs compared to current healthcare models."
+
+  6. Tumor board simulation improves interdisciplinary decision-making in medical students
+     Kevin Fink, Marie Forster, Matthias Oettle, Marcel Büttner, Chukwuka Eze, Lukas Käsmann, Amanda Tufm...
+     PMC11364642 · PMC · 2024-08-30
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11364642/
+     "A tumor board simulation was implemented in a medical oncology course for third-year students. The simulation significantly improved students' self-assessed interdisciplinary decision-making skills and understanding of diverse professional viewpoints."
+
+  7. Unveiling Bias in Sequential Decision Making: A Causal Inference   Approach for Stochastic Service Systems
+     Juan C. David Gomez, Amy L. Cochran, Gabriel Zayas-Caban
+     arx_2307.07879 · arXiv · 2023-07-15
+     "This study used causal inference to quantify sequential bias in unpredictable decision-making processes. The decision to route patients to a low-acuity area significantly impacted the care of future patients."
+
+  8. Family satisfaction with involvement in decision making in the intensive care unit: A scoping review
+     Ntombifikile Klaas *, Onalenna Baliki
+     med_c5ee23f66f35 · medRxiv · 2024-03-11
+     https://doi.org/10.1101/2024.03.11.24304110
+     "This scoping review identified literature on family satisfaction with ICU decision-making involvement. Effective communication and support are crucial for enhancing family satisfaction and involvement in these decisions."
+
+  9. A Contextual Ranking and Selection Method for Personalized Medicine
+     Jianzhong Du and Siyang Gao and Chun-Hung Chen
+     arx_2206.12640 · arXiv · 2022-06-25
+     "This study developed a contextual ranking and selection method to personalize medicine by simulating treatment outcomes for patient characteristics. The proposed algorithms numerically outperform existing methods in selecting optimal treatments."
+
+  10. Sequential Decision-Making for Inline Text Autocomplete
+     Rohan Chitnis and Shentao Yang and Alborz Geramifard
+     arx_2403.15502 · arXiv · 2024-03-21
+     "This study formulates inline text autocomplete as a sequential decision-making problem using reinforcement learning to optimize suggestion policies. The approach shows potential for better suggestion policies than single-step reasoning, though real-world user alignment requires further investigation."
+
+  11. The Medkit-Learn(ing) Environment: Medical Decision Modelling through   Simulation
+     Alex J. Chan, Ioana Bica, Alihan Huyuk, Daniel Jarrett, Mihaela van der Schaar
+     arx_2106.04240 · arXiv · 2021-06-08
+     "This study introduces Medkit-Learn, a Python package for simulating medical decision-making with synthetic data. It enables standardized algorithm comparison and evaluation of robustness against healthcare challenges."
+
+  12. A Unique Simulation Methodology for Practicing Clinical Decision Making
+     Shimon Amar, Yuval Bitan
+     PMC11770706 · PMC · 2025-01-27
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11770706/
+     "A new digital simulation method was developed to enhance early clinical decision-making skills in medical students. Participants reported increased confidence and willingness to make clinical decisions after using the simulation."
+
+  13. Discrete-Event Simulation in Healthcare Settings: a Review
+     John J. Forbus and Daniel Berleant
+     arx_2211.00061 · arXiv · 2022-10-20
+     https://doi.org/10.3390/modelling3040027
+     "This review analyzed 311 papers to understand discrete-event simulation in healthcare. The use of this modeling technique has steadily increased and expanded across diverse healthcare areas."
+
+  14. From Pre-test and Post-test Probabilities to Medical Decision Making
+     Michelle Pistner Nixon, Farhani Momotaz, Claire Smith, Jeffrey S. Smith, Mark Sendak, Christopher Po...
+     med_c816d55f7454 · medRxiv · 2024-02-14
+     https://doi.org/10.1101/2024.02.14.24302820
+     "This paper extends the Bayesian Pre-test/Post-test Probability framework to incorporate costs for binary clinical decisions. A simple decision boundary is derived, allowing for quantitative decision-making at the bedside."
+
+  15. Finding Optimal Cancer Treatment using Markov Decision Process to   Improve Overall Health and Quality of Life
+     Navonil Deb, Abhinandan Dalal and Gopal Krishna Basak
+     arx_2011.13960 · arXiv · 2020-11-27
+     "This study uses Markov Decision Processes to find optimal cancer treatments considering patient quality of life. Extraneous factors like financial status significantly influence treatment choices for better overall well-being."
+
+  16. Active Sampling for MRI-based Sequential Decision Making
+     Yuning Du, Jingshuai Liu, Rohan Dharmakumar, Sotirios A. Tsaftaris
+     arx_2505.04586 · arXiv · 2025-05-07
+     "This study developed a reinforcement learning framework to optimize MRI data acquisition for sequential diagnostic decisions. The approach achieved competitive diagnostic performance while significantly reducing the number of k-space samples needed."
+
+  17. Multi-armed Bandit Models for the Optimal Design of Clinical Trials:   Benefits and Challenges
+     Sof\'ia S. Villar, Jack Bowden, James Wason
+     arx_1507.08025 · arXiv · 2015-07-29
+     https://doi.org/10.1214/14-STS504
+     "This study explored multi-armed bandit models for clinical trial design to optimize patient allocation. Bandit approaches assign more patients to better treatments but reduce statistical power, though a novel rule addresses this limitation."
+
+  18. Neurophysiological insights into sequential decision-making: exploring the secretary problem through ERPs and TBR dynamics
+     Dor Mizrahi, Ilan Laufer, Inon Zuckerman
+     PMC11062020 · PMC · 2024-04-30
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11062020/
+     "This study investigated neurophysiological responses during a secretary problem simulation using EEG. Findings show that attention and cognitive evaluation fluctuate throughout the sequential decision-making process, with specific ERP components and TBR dynamics reflecting these changes."
+
+  19. Ranking and Selection with Covariates for Personalized Decision Making
+     Haihui Shen, L. Jeff Hong, Xiaowei Zhang
+     arx_1710.02642 · arXiv · 2017-10-07
+     https://doi.org/10.1287/ijoc.2020.1009
+     "This study developed a simulation-based method to identify the best option for individuals based on their characteristics. The approach successfully improves personalized treatment selection, leading to better patient outcomes."
+
+  20. Exploring the impact of a context-adapted decision aid and online training about shared decision making about goals of care with elderly patients in the intensive care unit: a mixed-methods study
+     Ariane Plaisance, Julien Turgeon, Lucas Gomes Souza, France Légaré C.Q., Stéphane Turcotte, Nathalie...
+     med_2db3e6906c01 · medRxiv · 2024-09-07
+     https://doi.org/10.1101/2024.09.07.24313154
+     "A mixed-methods study explored the impact of a decision aid and online training on shared decision-making for elderly ICU patients. The intervention did not significantly improve patient involvement or discussion quality, with patients often expressing confusion."
+
+  ... and 76 more papers
+  Use: paperclip results s_714f3d8f  to see all
+
+[348ms, saved to s_714f3d8f]
